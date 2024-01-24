@@ -1,0 +1,3 @@
+If num < -- User input
+If User input is remainder by 2 then the output Is even
+else The output is Odd 
