@@ -1,0 +1,2 @@
+If User num is remainder by 2 Print “The number is Even
+else The number Is odd
